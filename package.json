@@ -1,0 +1,22 @@
+{
+  "name": "lab.express-first-contact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seth-way/Lab.Express-First-Contact.git"
+  },
+  "author": "seth way",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seth-way/Lab.Express-First-Contact/issues"
+  },
+  "homepage": "https://github.com/seth-way/Lab.Express-First-Contact#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
