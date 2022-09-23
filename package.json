@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/seth-way/Lab.Express-First-Contact#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "prettier": "^2.7.1"
   }
 }
